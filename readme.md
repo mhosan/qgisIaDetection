@@ -8,7 +8,7 @@
 <a href="https://roboflow.com/" target="_blank">Página de Roboflow</a>
 
 ## Curso completo 
-Desarrollo de todos los temas de esta presentación en el curso "Segmentación y Detección de objetos con Deep Learning" que se encuentra en Geopois gracias a la gentileza de Javier Gabás [Javier Gabástext](https://www.linkedin.com/in/jgabas/):
+Desarrollo de todos los temas de esta presentación en el curso "Segmentación y Detección de objetos con Deep Learning" que se encuentra en Geopois (hosteado gracias a la gentileza de Javier Gabás [Javier Gabás](https://www.linkedin.com/in/jgabas/)):
 
 - Curso completo: https://www.geopois.com/qgis/qgis-tutorials/ia-segmentacion-en-qgis
     - Modulo 1 - IA Segmentacion en QGIS
