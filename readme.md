@@ -8,5 +8,5 @@
 <a href="https://roboflow.com/" target="_blank">Página de Roboflow</a>
 
 ## Curso completo de Deep Learning:
-<a href="https://github.com/mhosan/qgisIaDetection/tree/main" target="_blank">Curso en Geopois</a>
+<a href="https://www.geopois.com/qgis/qgis-tutorials/ia-segmentacion-en-qgis" target="_blank">Curso en Geopois</a>
 
