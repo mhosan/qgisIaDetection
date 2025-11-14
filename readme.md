@@ -9,10 +9,16 @@
 
 ## Curso completo 
 Desarrollo de todos los temas de esta presentación en el curso "Segmentación y Detección de objetos con Deep Learning" que se encuentra en Geopois:
-- Este curso consta de 8 módulos (presentaciones).
+
 - Curso completo: https://www.geopois.com/qgis/qgis-tutorials/ia-segmentacion-en-qgis
     - Modulo 1 - IA Segmentacion en QGIS
-
+    - Modulo 2 - IA Detección en QGIS
+    - Modulo 3 - IA Dataset - Preparar imagenes
+    - Modulo 4 - IA Dataset - Exportar y anotar
+    - Modulo 5 - IA Dataset - Etiquetar imagenes
+    - Modulo 6 - IA Dataset - Edición Versiones
+    - Modulo 7 - IA Entrenar modelo
+    - Modulo 8 - IA Entrenar y testear modelo
 
 ![Img cursoGeopois](./assets/cursoEnGeopois.png)
 
