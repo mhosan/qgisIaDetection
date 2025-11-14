@@ -9,5 +9,5 @@
 
 ## Desarrollo de todos los temas de esta presentación en Geopois: (https://www.geopois.com) en el curso completo sobre Segmentación y Detección de objetos con Deep Learning:
 <a href="https://www.geopois.com/qgis/qgis-tutorials/ia-segmentacion-en-qgis" target="_blank">Segmentación y Detección de objetos</a>
-![Diagrama](../assets/cursoEnGeopois.png)
+![Img cursoGeopois](./assets/cursoEnGeopois.png)
 
