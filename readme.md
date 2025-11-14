@@ -12,5 +12,5 @@ Desarrollo de todos los temas de esta presentación en el curso completo sobre S
 - Curso completo: https://www.geopois.com/qgis/qgis-tutorials/ia-segmentacion-en-qgis
 
 
-- ![Img cursoGeopois](./assets/cursoEnGeopois.png)
+![Img cursoGeopois](./assets/cursoEnGeopois.png)
 
