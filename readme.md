@@ -7,7 +7,7 @@
 ## Página de Roboflow:
 <a href="https://roboflow.com/" target="_blank">Página de Roboflow</a>
 
-## Desarrollo de todos los temas de esta presentación en Geopois: https://www.geopois.com en el curso completo sobre Segmentación y Detección de objetos con Deep Learning:
+## Desarrollo de todos los temas de esta presentación en el curso completo sobre Segmentación y Detección de objetos con Deep Learning que se encuentra en Geopois:
 <a href="https://www.geopois.com/qgis/qgis-tutorials/ia-segmentacion-en-qgis" target="_blank">Segmentación y Detección de objetos</a>
 ![Img cursoGeopois](./assets/cursoEnGeopois.png)
 
